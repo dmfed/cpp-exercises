@@ -1,3 +1,3 @@
 # C++ Exercises
 
-C++ exercises from various sources.
+Very basic C++ exercises from various sources.
