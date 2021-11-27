@@ -36,8 +36,10 @@ int main() {
 	
 	boxes = n / box;
 	n = n % box;
+
 	packs = n / pack;
 	n = n % pack;
+
 	pairs = n;
 
 	if (pairs * pa > pk) {
